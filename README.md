@@ -20,6 +20,6 @@ $ python _record.py --cks experiment.ck ..
 
 ## Experiments
 
-| Experiment                                                            | List of results                                                                                                                                                                                        |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Arpeggios with Cellular Automaton](arpeggios_cellularAutomaton1D.ck) | [rule106](arpeggios_cellularAutomaton1D_rule106), [rule018](arpeggios_cellularAutomaton1D_rule018), [rule165](arpeggios_cellularAutomaton1D_rule165), [rule225](arpeggios_cellularAutomaton1D_rule225) |
+| Experiment                                                            | List of results                                                                                                                                                                                                        |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Arpeggios with Cellular Automaton](arpeggios_cellularAutomaton1D.ck) | [rule106](arpeggios_cellularAutomaton1D_rule106.wav), [rule018](arpeggios_cellularAutomaton1D_rule018.wav), [rule165](arpeggios_cellularAutomaton1D_rule165.wav), [rule225](arpeggios_cellularAutomaton1D_rule225.wav) |
