@@ -17,3 +17,9 @@ To **record** an experiment, run:
 ```bash
 $ python _record.py --cks experiment.ck ..
 ```
+
+## Experiments
+
+| Experiment                                                            | List of results                                                                                                                                                                                        |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Arpeggios with Cellular Automaton](arpeggios_cellularAutomaton1D.ck) | [rule106](arpeggios_cellularAutomaton1D_rule106), [rule018](arpeggios_cellularAutomaton1D_rule018), [rule165](arpeggios_cellularAutomaton1D_rule165), [rule225](arpeggios_cellularAutomaton1D_rule225) |
